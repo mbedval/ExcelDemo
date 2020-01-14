@@ -1,8 +1,11 @@
 #Setup the code
 
 git clone https://github.com/mbedval/ExcelDemo.git
+
 cd ExcelDemo
+
 npm install
+
 npm start
 
 Note: npm start will start Excel installs locally, but it may not work depending on Restriction on Desktop Excel.
